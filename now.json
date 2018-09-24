@@ -1,3 +1,12 @@
 {
-    
+  "alias": [
+    "sebastian.mx",
+    "www.sebastian.mx"
+  ],
+  "scale": {
+    "sfo1": {
+      "min": 1,
+      "max": "auto"
+    }
+  }
 }
