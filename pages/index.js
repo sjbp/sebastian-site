@@ -10,7 +10,7 @@ const Home = () => (
     <Header />
 
     <div className="main">
-      <h1 className="name">Sebastián Jiménez-Bonnet</h1>
+      <h1 className="name">Sebastián Jiménez Bonnet</h1>
       <div className="row">
         <Nav />
       </div>
